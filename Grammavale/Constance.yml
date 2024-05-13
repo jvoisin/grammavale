@@ -1,0 +1,13 @@
+extends: consistency
+message: "'%s' a une orthographe inconstante"
+level: warning
+scope: text
+ignorecase: true
+nonword: false
+either:
+  chausse-trape: chausse-trappe
+  clé: clef
+  cuillère: cuiller
+  bistro: bistrot
+  nénuphar: nénufar
+  tsar: tzar

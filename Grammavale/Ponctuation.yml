@@ -1,0 +1,7 @@
+extends: existence
+message: "Il manque une espace avant '%s'."
+level: error
+nonword: true
+ignorecase: true
+tokens:
+  - '[a-z]+[!?]'

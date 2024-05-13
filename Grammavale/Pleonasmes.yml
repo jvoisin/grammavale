@@ -1,0 +1,30 @@
+extends: existence
+message: "'%s' est un pléonasme"
+level: warning
+ignorecase: true
+tokens:
+    - applaudir des deux mains
+    - au jour d'aujourd'hui
+    - cirrhose du foie
+    - collaborer ensemble
+    - comparer entre eux
+    - contraint malgré lui
+    - descendre en bas
+    - dessiner un dessin
+    - donc par conséquent
+    - erreurs involontaires
+    - hasards imprévus
+    - marche à pied
+    - monopole exclusif
+    - monter en haut
+    - opportunités à saisir
+    - panacée universelle
+    - perspectives d'avenir
+    - prototypes expérimentaux
+    - reporter à plus tard
+    - réserver d'avance
+    - s'entraider mutuellement
+    - secousses sismiques
+    - solidaires les uns les autres
+    - un avenir devant soi
+    - étapes intermédiaires

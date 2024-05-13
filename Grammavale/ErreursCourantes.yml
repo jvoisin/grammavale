@@ -1,0 +1,26 @@
+extends: substitution
+message: "'%s' est correct, '%s' ne l'est pas."
+level: error
+ignorecase: true
+swap:
+  - 'hauts-parleurs': 'haut-parleurs'
+  - 'jeux vidéos': 'jeux vidéo'
+  - 'ayants-droits': 'ayants droit'
+  - 'par moment': 'par moments'
+  - 'hormis': 'hormi'
+  - 'à tord': 'à tort'
+  - 'cauchemard': 'cauchemar'
+  - 'maline': 'maligne'
+  - 'prémice': 'prémices'
+  - 'acceuil': 'accueil'
+  - 'aquérir': 'acquérir'
+  - 'banquaire': 'bancaire'
+  - 'je me rappelle de': 'je me rappelle'
+  - 'milles mercis': 'mille mercis'
+  - 'faire parti du groupe': 'faire partie du groupe'
+  - 'etc[.][.][.]': 'etc.'
+  - 'aux dépends': 'aux dépens'
+  - 'pallier à': 'pallier'
+  - 'quand à': 'quant à'
+  - 'quand a': 'quant a'
+  - 'quand au': 'quant au'

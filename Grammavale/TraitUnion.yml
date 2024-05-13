@@ -1,0 +1,10 @@
+extends: substitution
+message: "'%s' est correct, '%s' ne l'est pas."
+level: warning
+ignorecase: true
+swap:
+  - 'lui même': 'lui-même'
+  - 'là bas': 'là-bas'
+  - 'ci devant': 'ci-devant'
+  - 'ceux la': 'ceux-la'
+  - 'celles la': 'celles-la'
